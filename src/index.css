@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  margin-left: 12px
+}
+
+.screening-box {
+  background-color:	grey;
+  width: 300px;
+  padding: 15px;
+}
+
+.screening-list {
+  color: black;
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+
+.screening h4 {
+  margin: 10px 0px;
+}
+
+.screening .showtimes {
+  margin: 10px 0px;
+}
+
+.screening-box a {
+  color: white;
+  font-size: 12px;
+}
+
+.get-showtimes-button {
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding-top: 15px;
+  height: 30px;
+}
